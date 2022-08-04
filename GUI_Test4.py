@@ -81,7 +81,7 @@ def main():
 
     root4.mainloop()
 
-
+            
 if __name__=='__main__':
     if os.path.isfile("saved-apps.txt"):
         with open("saved-apps.txt", "r") as f:
